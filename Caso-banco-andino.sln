@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{501A4553-4DCD-1DEA-D2F1-A847F888E1D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardboardSamples", "CardboardSamples.csproj", "{FB48F1BB-2255-6431-CE0C-515E5D7B72EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3440F62B-A712-2B97-D9ED-44B6880B0DB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501A4553-4DCD-1DEA-D2F1-A847F888E1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501A4553-4DCD-1DEA-D2F1-A847F888E1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501A4553-4DCD-1DEA-D2F1-A847F888E1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501A4553-4DCD-1DEA-D2F1-A847F888E1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB48F1BB-2255-6431-CE0C-515E5D7B72EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB48F1BB-2255-6431-CE0C-515E5D7B72EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB48F1BB-2255-6431-CE0C-515E5D7B72EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB48F1BB-2255-6431-CE0C-515E5D7B72EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3440F62B-A712-2B97-D9ED-44B6880B0DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3440F62B-A712-2B97-D9ED-44B6880B0DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3440F62B-A712-2B97-D9ED-44B6880B0DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3440F62B-A712-2B97-D9ED-44B6880B0DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
